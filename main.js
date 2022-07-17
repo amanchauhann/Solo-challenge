@@ -7,7 +7,9 @@ let displayColor = document.getElementsByClassName("colorDisplay");
 const numberOfColors = 6;
 
 
+
 getColorData()
+
 
 button.addEventListener("click", () => {
     getColorData()
